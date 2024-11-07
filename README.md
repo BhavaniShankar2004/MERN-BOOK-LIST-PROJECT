@@ -13,7 +13,7 @@ A full-stack web application for managing a collection of books. Built using the
 - **Interactive Interface:** A user-friendly and interactive front-end built with React.
 - **Scalable Back-End:** Data storage and API endpoints managed by MongoDB and Express.js.
 - **Efficient Performance:** Uses MongoDB for optimized data handling and Express.js for efficient routing.
-- **Search Functionality:** Quickly find books by title or author.
+- **Search Functionality:** Quickly find books by title or author..
 
 ## 🛠️ Tech Stack
 
